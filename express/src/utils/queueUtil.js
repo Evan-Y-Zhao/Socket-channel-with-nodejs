@@ -1,0 +1,1 @@
+export const DASHBOARD_TEST = 'DASHBOARD_TEST_1'
