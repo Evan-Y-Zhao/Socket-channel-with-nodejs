@@ -39,7 +39,7 @@
     "pug": "^2.0.0-beta11",
     "puppeteer": "^1.17.0",
     "rimraf": "^2.6.2",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.3",
